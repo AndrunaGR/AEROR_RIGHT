@@ -65,7 +65,11 @@ a {
     border-radius: 0.2vw;  	
 	padding: 0.3vw;	
 }
-
+#alutech-calc {
+position:  absolute;
+  top: 15vw;
+  left: 2vw;
+}
 
 .Z {
 	position:  absolute;
