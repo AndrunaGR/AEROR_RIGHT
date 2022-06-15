@@ -39,7 +39,11 @@ a {
 	padding-top: 0.3vw;
 	padding-bottom: 0.3vw;
 }
-
+#al {
+position:  relative;
+  top: 3vw;
+  left: 2vw;
+}
 #A1 {
     margin-left: 12.2vw;
 	border-radius: 0.2vw; 
