@@ -40,7 +40,7 @@ a {
 	padding-bottom: 0.3vw;
 }
 #A1 {
-    margin-left: 12.2vw;
+    margin-left: 8.2vw;
 	border-radius: 0.2vw; 
     padding: 0.3vw;	
 }
@@ -78,7 +78,11 @@ a {
  left: 4vw;
 }
  
-#Z1 { left: 20.5vw; }
+summary {
+  color: #C99447;
+} 
+ 
+#Z1 { left: 22.5vw; }
 #Z2 { left: 32.5vw; }
 #Z3 { left: 42.5vw; }
 #Z4 { left: 52.5vw; }
