@@ -72,6 +72,11 @@ a {
 
 } 
  
+#faq {
+ position:  absolute;
+ top: 12vw;
+ left: 2vw;
+}
  
 #Z1 { left: 22.5vw; }
 #Z2 { left: 32.5vw; }
