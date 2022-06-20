@@ -11,6 +11,10 @@ div { color: #222529; }
 #A3 { background-color: #E8EDF3; }
 #A4 { background-color: #E8EDF3; }
 #A5 { background-color: #E8EDF3; }
+/* дорожка */
+::-webkit-scrollbar-track {
+  background: #E8EDF3;
+}
 }
 @media (prefers-color-scheme: dark) {
 body { height: 99vw; background: linear-gradient(#1C1C1E 9.6vw, #C99447 9.6vw, #C99447 9.9vw, #141414 9.9vw); }
@@ -22,6 +26,10 @@ div { color: white; }
 #A3 { background-color: #36373D; }
 #A4 { background-color: #36373D; }
 #A5 { background-color: #36373D; }
+/* дорожка */
+::-webkit-scrollbar-track {
+  background: #36373D;
+}
 }
 
 div {
@@ -150,11 +158,6 @@ summary {
 /* ширина */
 ::-webkit-scrollbar {
   width: 0.7vw;
-}
-
-/* дорожка */
-::-webkit-scrollbar-track {
-  background: #36373D;
 }
 
 /* бегунок */
