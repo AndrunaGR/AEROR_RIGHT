@@ -13,7 +13,7 @@ div { color: #222529; }
 #A5 { background-color: #E8EDF3; }
 /* дорожка */
 ::-webkit-scrollbar-track {
-  background: #E8EDF3;
+  background: white;
 }
 }
 @media (prefers-color-scheme: dark) {
